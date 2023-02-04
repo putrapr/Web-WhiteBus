@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  /* box-sizing: border-box; */
+  /* font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; */
+}
+/*CSS Reset*/
+.ekonomi {
+  margin: 50px;
+  display: flex;
+  /* background-color: blueviolet; */
+  justify-content: space-evenly;
+  /* background-color: blueviolet; */
+}
+.txt-bus {
+  width : 200px;
+  text-align: center;
+  font-weight: bolder;
+  margin: 5px auto;
+  /* background-color: aqua; */
+}
+.judul-deskripsi {
+  width : 500px;
+}
+
+.deskripsi-bus {  
+  width : 480px;
+  margin-left:20px;
+  text-align: justify;
+}
+
+.form-pesan {
+  margin:50px;
+  background-color: rgb(231, 231, 231);
+}
+
+.form-pesan-dalam {
+  /* background-color: blue; */
+  margin: 20px;
+}
+
+.masukan {  
+  width: 1000px;
+  margin-bottom: 10px; 
+  margin-left: 20px;
+}
+
+.tombol {
+  width:200px;
+  margin-right: 20px;
+}
+
+.masukan-err {
+  color: red;
+  text-align: right;
+}
